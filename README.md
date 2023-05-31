@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Data Engineering Projects
+### [crimes-data-pipeline](https://github.com/daniel-medrano/crimes-data-pipeline)
+### [northwind-data-pipeline [In Process]](https://github.com/daniel-medrano/northwind-data-pipeline)
+
+## Data Analysis Projects
+### [concurso-nacional-de-visualizacion-de-datos-2023 [Private At The Moment]]()
