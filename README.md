@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ### [northwind-data-pipeline [In Process]](https://github.com/daniel-medrano/northwind-data-pipeline)
 
 ## Data Analysis Projects
-### [concurso-nacional-de-visualizacion-de-datos-2023 [Private At The Moment]]()
+### [concurso-nacional-de-visualizacion-de-datos-2023](https://github.com/daniel-medrano/concurso-nacional-de-visualizacion-de-datos-2023)
